@@ -1,0 +1,44 @@
+body {
+    position: relative;
+    top: 200px;
+    text-align: center;
+    justify-content: center;
+}
+
+.pallate {
+     width: 500px;
+     position: relative;
+     height: 200px;
+     left: 500px;
+     display: grid;
+     border-radius: 10px;
+     box-shadow: 2px 2px 20px 2px gray;
+}
+
+.sec1 {
+    display: grid;
+    gap: 10px;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+p, button, input {
+    border-radius: 5px;
+    height: 40px;
+}
+
+input {
+    border: 1px solid rgb(201, 200, 200) ;
+    text-align: center;
+}
+
+button {
+    border: none;
+    background-color: rgb(40, 114, 241);
+    color: white;
+    
+}
+
+button:hover {
+    background-color: #5887f6;
+}
