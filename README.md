@@ -25,9 +25,7 @@ Each project is small but focuses on a specific concept to strengthen frontend d
 Some of the mini projects in this repository include:
 
 * Flex Panels Image Gallery
-* Random Dog Image Generator (API)
-* Responsive Layout Practice
-* Button Interaction Effects
+* Drum_kit system
 * DOM Manipulation Examples
 * JavaScript Array Exercises
 * CSS Animation Experiments
