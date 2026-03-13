@@ -88,12 +88,4 @@ Upcoming additions may include:
 
 ---
 
-## 👨‍💻 Author
-
-**Mohit Chauhan**
-
-Learning and building projects to improve skills in **web development and JavaScript**.
-
----
-
-⭐ If you find these projects helpful, feel free to explore and experiment with them.
+reference: https://javascript30.com
